@@ -1,11 +1,3 @@
 # Cpp-OO
 ###
-### Exercícios resolvidos utilizando C++ e Programação Orientada a Objetos
-###
-###
-###
-###
-###
-###
-###
-###
+### Exercícios resolvidos utilizando C++ (Programação Orientada a Objetos)
