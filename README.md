@@ -1,3 +1,4 @@
 # Cpp-OO
 ###
-### Exercícios resolvidos utilizando C++ (Programação Orientada a Objetos) para a disciplina de Linguagem de Programação 1
+### Exercícios resolvidos utilizando para a disciplina de Linguagem de Programação 1
+### C++ (Programação Orientada a Objetos) e C
