@@ -1,8 +1,3 @@
-/*
-
-SENSATEZ, CÓDIGO PERFEITO, LINDOO
-
-*/
 #include <iostream>
 
 int main()
